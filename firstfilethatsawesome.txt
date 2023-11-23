@@ -1,0 +1,3 @@
+This is our first text to into git.
+
+Remember to bring your ticket on sartuday.
